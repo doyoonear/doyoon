@@ -6,7 +6,10 @@ email: doyoonleee@gmail.com
 description: "소통하는 개발자 | Frontend Developer，Graphic Designer，Illustrator | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "Javascript, React, Vue, Typescript"
 url: "https://doyoonear.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""             
+remote_theme : mmistakes/minimal-mistakes
+remote_repository: http://doyoonear/doyoonear.github.io
+# for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
