@@ -8,8 +8,6 @@ keyword: "Javascript, React, Vue, Typescript"
 url: "https://doyoonear.github.io"              # your host, for absolute URL
 baseurl: ""             
 remote_theme : mmistakes/minimal-mistakes
-remote_repository: http://doyoonear/doyoonear.github.io
-# for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
